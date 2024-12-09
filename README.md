@@ -1,1 +1,2 @@
 # data-science-ecosystem
+This repository contains the Jupyter Notebook created as part of the final assignment for the Data Science Tools and Ecosystem course. The notebook summarizes key aspects of the data science ecosystem, including popular programming languages, libraries, and tools used by data scientists. It also performs some basic arithmetic operations and includes structured markdown documentation.
